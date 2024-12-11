@@ -1,6 +1,6 @@
 name: Deploy Production
 
-on: // Event that triggers a workflow run 
+on: 
   push:
     branches: ['main']
   pull_request:
